@@ -7,7 +7,7 @@ I often do web development works on frontend, and is trying to expand my knowled
 
 ### My code stats
 <span>
-<a href="https://github.com/sPrhr">
+<a href="https://github.com/sPrhr" style="display: flex">
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=sPrhr&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="sPrhr Github Top Languages" />
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=sPrhr&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="sPrhr Github Stats" />
 </a>
